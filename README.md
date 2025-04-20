@@ -5,12 +5,14 @@
 
 <h2>🎬 Cinematic Propaganda Projects:</h2>
 
-- <b>Operation Rellik Trailer</b>  
+- <b>The Alleyways | Cinematic Showcase 🏢</b>  
   - [Watch on YouTube](https://www.youtube.com/watch?v=-5e3BaFRe0M)
-- <b>Operation Silver</b>  
+- <b>Rainforest Room | Cinematic Showcase 🌿</b>  
   - [Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
-- <b>Dead Silence - Roblox Cinematic</b>  
+- <b>Valorant Montage || Everyone wants to rule the world + Paint it black</b>  
   - [Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
+ - <b>Paragon Rework [TRAILER] | NOT OFFICIAL</b>  
+  - [Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
 
 <h2>🎨 GFX Propaganda Works:</h2>
 
