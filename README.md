@@ -6,13 +6,13 @@
 <h2>🎬 Cinematic Propaganda Projects:</h2>
 
 - <b>The Alleyways | Cinematic Showcase 🏢</b>  
-  - [Watch on YouTube](https://www.youtube.com/watch?v=-5e3BaFRe0M)
+   [Watch on YouTube](https://www.youtube.com/watch?v=-5e3BaFRe0M)
 - <b>Rainforest Room | Cinematic Showcase 🌿</b>  
-  - [Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
+   [Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
 - <b>Valorant Montage || Everyone wants to rule the world + Paint it black</b>  
-  - [Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
+   [Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
  - <b>Paragon Rework [TRAILER] | NOT OFFICIAL</b>  
-  - [Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
+   [Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
 
 <h2>🎨 GFX Propaganda Works:</h2>
 
