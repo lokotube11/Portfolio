@@ -34,7 +34,6 @@
 
 <br/>
 
-[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/@lokotube11
-[roblox]: https://www.roblox.com/users/youruserid/profile
+[roblox]: https://www.roblox.com/users/1367691683/profile
 [github]: https://github.com/Lokotube11
