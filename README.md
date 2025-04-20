@@ -11,7 +11,7 @@
    [Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
 - <b>Valorant Montage || Everyone wants to rule the world + Paint it black</b>  
    [Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
- - <b>Paragon Rework [TRAILER] | NOT OFFICIAL</b>  
+ - <b>Paragon Research Institute Rework [TRAILER] | NOT OFFICIAL</b>  
    [Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
 
 <h2>🎨 GFX Propaganda Works:</h2>
