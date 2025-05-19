@@ -17,7 +17,7 @@
 <h2>🎨 GFX Propaganda Works:</h2>
 
 - Posters, promo art, and more:  
-  - [View GFX Folder on Google Drive](https://drive.google.com/drive/folders/1knKv79VAIYfchP7NAaCcDkwJ-PAWdV3O)
+  - [View GFX Folder on Google Drive](https://drive.google.com/drive/folders/1EPaSUVIFZZOdxtvO7AGLhDX0R7PetvbN?usp=sharing)
 
 <h2>🛠️ Roblox Scripting Projects:</h2>
 
