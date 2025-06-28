@@ -1,41 +1,72 @@
-<h1>Hi, I'm Lokotube11!<br/>
-<a href="https://github.com/Lokotube11">Basic Scripter</a>, 
-<a href="https://drive.google.com/drive/folders/1knKv79VAIYfchP7NAaCcDkwJ-PAWdV3O">GFX Designer</a>, 
-<a href="https://www.youtube.com/@lokotube11">Cinematic Filmmaker</a></h1>
+# 👋 Hey, I'm Lokotube11
 
-<h2>🎬 Cinematic Propaganda Projects:</h2>
+**Basic Scripter · GFX Designer · Cinematic Filmmaker**
 
-- <b>The Alleyways | Cinematic Showcase 🏢</b>  
-   [Watch on YouTube](https://www.youtube.com/watch?v=-5e3BaFRe0M)
-- <b>Rainforest Room | Cinematic Showcase 🌿</b>  
-   [Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
-- <b>Valorant Montage || Everyone wants to rule the world + Paint it black</b>  
-   [Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
- - <b>Paragon Research Institute Rework [TRAILER] | NOT OFFICIAL</b>  
-   [Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
+- 🔧 [GitHub Projects](https://github.com/Lokotube11)
+- 🎨 [GFX / ART / UI / Modeling Portfolio](https://drive.google.com/drive/folders/1knKv79VAIYfchP7NAaCcDkwJ-PAWdV3O)
+- 📺 [YouTube Cinematics](https://www.youtube.com/@lokotube11)
 
-<h2>🎨 GFX Propaganda Works:</h2>
+---
 
-- Posters, promo art, and more:  
-  - [View GFX Folder on Google Drive](https://drive.google.com/drive/folders/1EPaSUVIFZZOdxtvO7AGLhDX0R7PetvbN?usp=sharing)
+## 🎬 Cinematic Projects
 
-<h2>🛠️ Roblox Scripting Projects:</h2>
+Showcasing immersive environments, editing, and storytelling:
 
-- <b>Camera System & Custom Animation Handling</b>  
-  - Cinematic camera positioning for in-game SCPs and actors.
-- <b>Decontamination Button System</b>  
-  - Fully functional particle and sound-based decon system using button triggers.
-- <b>SCP Morph Hierarchy & Controls</b>  
-  - Rank-based morph permissions and ability logic for anomalies.
+- **The Alleyways | Cinematic Showcase 🏢**  
+  [📽 Watch on YouTube](https://www.youtube.com/watch?v=-5e3BaFRe0M)
+  
+- **Rainforest Room | Cinematic Showcase 🌿**  
+  [📽 Watch on YouTube](https://www.youtube.com/watch?v=brKAmwVw_SM)
+  
+- **Valorant Montage | Everyone Wants to Rule the World + Paint It Black 🎮**  
+  [📽 Watch on YouTube](https://www.youtube.com/watch?v=4RulCGf35yE)
+  
+- **Paragon Research Institute Rework [TRAILER] (Unofficial)**  
+  [📽 Watch on YouTube](https://www.youtube.com/watch?v=x7yCIB5z9KU)
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Lokotube11 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="Lokotube11 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/roblox.svg" />][roblox]  
-[<img align="left" alt="Lokotube11 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+## 🎨 GFX / UI / 3D Portfolio
 
-<br/>
+Visual design, promotional art, and modeling work:
 
-[youtube]: https://www.youtube.com/@lokotube11
-[roblox]: https://www.roblox.com/users/1367691683/profile
-[github]: https://github.com/Lokotube11
+- 🔗 [Main GFX + UI + Models Folder on Google Drive](https://drive.google.com/drive/folders/1knKv79VAIYfchP7NAaCcDkwJ-PAWdV3O)
+- 🔗 [Posters, Promo Art, and More](https://drive.google.com/drive/folders/1EPaSUVIFZZOdxtvO7AGLhDX0R7PetvbN?usp=sharing)
+
+---
+
+## 🛠 Roblox Scripting Highlights
+
+Custom game logic and immersive features developed in Roblox Studio:
+
+- **📷 Camera System & Custom Animation Handling**  
+  Smooth cinematic cameras for SCPs and actors.
+  
+- **🧼 Decontamination Button System**  
+  Particle/audio-based system activated via interactable triggers.
+  
+- **🧬 SCP Morph Hierarchy & Abilities**  
+  Rank-based morphs with dynamic abilities and permissions.
+
+---
+
+## 🧠 Experience & Roles
+
+> You can also view my [background doc here](https://docs.google.com/document/d/12e4xMMmd2UJgnNq9YNSCmtKvYmDInsfr7kMF7bXJamI/edit?usp=sharing)
+
+- **PALITRON MaD** – Overseer  
+- **Artemis** – QA Tester  
+- **DrillCore Studio** – Project Manager / Lead Developer  
+- ✖️ Contributed to multiple now-shutdown or archived Roblox games
+
+---
+
+## 🤝 Let's Connect
+
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg) YouTube](https://www.youtube.com/@lokotube11)  
+[![Roblox](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/roblox.svg) Roblox](https://www.roblox.com/users/1367691683/profile)  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg) GitHub](https://github.com/Lokotube11)
+
+---
+
+*Thanks for checking out my work! I'm always open to collaborations, feedback, or just a creative chat.*
