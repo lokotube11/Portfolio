@@ -63,6 +63,7 @@ A short background of my past involvement:
 - **PALITRON MaD** – Overseer  
 - **Artemis** – Quality Assurance Tester  
 - **DrillCore Studio** – Lead Developer & Project Manager  
+- **CocoTM** – Tester
 - Plus other smaller or sunsetted games.
 
 > 📄 [See Full Background Document](https://docs.google.com/document/d/12e4xMMmd2UJgnNq9YNSCmtKvYmDInsfr7kMF7bXJamI/edit?usp=sharing)
