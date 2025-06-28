@@ -39,13 +39,13 @@ Visual design, promotional art, and modeling work:
 
 Custom game logic and immersive features developed in Roblox Studio:
 
-- **📷 Camera System & Custom Animation Handling**  
+- **Camera System & Custom Animation Handling**  
   Smooth cinematic cameras for SCPs and actors.
   
-- **🧼 Decontamination Button System**  
+- **Decontamination Button System**  
   Particle/audio-based system activated via interactable triggers.
   
-- **🧬 SCP Morph Hierarchy & Abilities**  
+- **SCP Morph Hierarchy & Abilities**  
   Rank-based morphs with dynamic abilities and permissions.
 
 ---
